@@ -105,15 +105,18 @@ Student          	student  	student@student.com	      cj
 <img width="1080" alt="Screenshot 2023-08-03 011226" src="https://github.com/akhtarorooj914/PCS/assets/101574230/4fbbe177-3607-4193-9c17-643ac5498e39">
 
 
-![Uploading er-new.drawio (1).png…]()
-![class diagram drawio](https://github.com/akhtarorooj914/PCS-PHP-laravel/assets/101574230/47641700-c4bb-4061-a429-fa63af116a1e)
-
-
-
 
 
 <img width="1053" alt="Screenshot 2023-08-03 005922" src="https://github.com/akhtarorooj914/PCS/assets/101574230/e6fdaf4b-bb59-449d-9f43-fc2cdf0a4185">
 
 <img width="1080" alt="Screenshot 2023-08-03 005153" src="https://github.com/akhtarorooj914/PCS/assets/101574230/f8b52fc7-e9fa-48a0-97de-cad1dd616fca">
+
+CLASS DIAGRAM
+![class diagram drawio](https://github.com/akhtarorooj914/PCS-PHP-laravel/assets/101574230/47641700-c4bb-4061-a429-fa63af116a1e)
+
+ER DIAGRAM
+![er-new drawio (1)](https://github.com/akhtarorooj914/PCS-PHP-laravel/assets/101574230/a112b27c-0474-45b5-bf02-fac764ae0616)
+
+
 
 
